@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Socials
+## Socials
 
 <div>
 <div id="badges">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    
   </a>
   <a href="https://www.facebook.com/peter.eriksson.986/">
-    <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&labelColor=black&logo=facebook" alt="Facebook Badge"/>
+   <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&labelColor=black&logo=facebook" alt="Facebook Badge"/>
   </a>
 </div>
 </div>
