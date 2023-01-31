@@ -4,7 +4,7 @@
 </h1>
 ## I'm Peter
 
-Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
+# Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
 
 
 <!--
