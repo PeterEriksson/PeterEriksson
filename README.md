@@ -1,4 +1,7 @@
 ### Hi there 👋
+##I'm Peter
+Check out my [website](https://petere-portfolio-2.vercel.app/) 
+
 
 <!--
 **PeterEriksson/PeterEriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##Socials
+
 <div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/peter-eriksson-13b8b1120/">
@@ -22,7 +28,7 @@ Here are some ideas to get you started:
    
   </a>
   <a href="https://www.facebook.com/peter.eriksson.986/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Favcebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-dark-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 </div>
