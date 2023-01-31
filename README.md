@@ -37,7 +37,9 @@ Here are some ideas to get you started:
   </a>
 </div>
  
-### My skills
+## My skills
+
+## Frontend
 - HTML,CSS,JS
 - React.js
 - Next.js
