@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Socials
 
-<div>
+ 
 <div id="badges">
   <a href="https://www.linkedin.com/in/peter-eriksson-13b8b1120/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
    
   </a>
   <a href="https://www.facebook.com/peter.eriksson.986/">
-   <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&labelColor=black&logo=facebook" alt="Facebook Badge"/>
+   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"  />
   </a>
 </div>
-</div>
+ 
 
 
 
