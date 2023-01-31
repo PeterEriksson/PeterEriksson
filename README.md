@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I'm Peter
+## I'm Peter
 Check out my [website](https://petere-portfolio-2.vercel.app/) 
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    
   </a>
   <a href="https://www.facebook.com/peter.eriksson.986/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-#00008B?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 </div>
