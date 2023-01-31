@@ -1,5 +1,5 @@
 <h1>
-  hey there, I'm Peter
+  Hey there, I'm Peter
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 ## My skills
 
-## Frontend
+### Frontend
 - HTML,CSS,JS
 - React.js
 - Next.js
