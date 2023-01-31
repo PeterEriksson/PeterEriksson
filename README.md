@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    
   </a>
   <a href="https://www.facebook.com/peter.eriksson.986/">
-    <img src="https://img.shields.io/badge/Facebook-lightBlue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-darkBlue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 </div>
