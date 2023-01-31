@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 </div>
  
-## My skills
+### My skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js badge" />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" />
