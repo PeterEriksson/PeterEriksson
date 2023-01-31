@@ -2,10 +2,11 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div>
 ## I'm Peter
 
-# Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
-
+### Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
+</div>
 
 <!--
 **PeterEriksson/PeterEriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Socials
+### Socials
 
  
 <div id="badges">
