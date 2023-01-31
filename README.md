@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 ## My skills
 
-### Frontend
+#### Frontend
 - HTML,CSS,JS
 - React.js
 - Next.js
