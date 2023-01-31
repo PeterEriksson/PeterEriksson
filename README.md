@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-## I'm Peter
-
+<h2>  
+I'm Peter
+  </h2>
 ### Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
 </div>
 
