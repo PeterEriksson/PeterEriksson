@@ -2,8 +2,7 @@
   hey there, I'm Peter
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div>
+ 
  
 ### I'm a frontend developer who specializes in React.js.
  
@@ -45,4 +44,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge" />
 <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge%22" alt="react badge" />
 
-</div>
+ 
