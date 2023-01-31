@@ -3,11 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-<h2>  
-I'm Peter
-  </h2>
-### Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
-</div>
+ 
+
+ 
 
 <!--
 **PeterEriksson/PeterEriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+### Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
 
 ### Socials
 
