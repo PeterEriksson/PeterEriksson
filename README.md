@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 ### Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
 
-### Socials - lets connect!
+## Socials - lets connect!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/peter-eriksson-13b8b1120/">
