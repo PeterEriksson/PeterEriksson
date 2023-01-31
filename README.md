@@ -1,7 +1,8 @@
 <h1>
-  hey there
+  hey there, I'm Peter
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div>
  
 
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 
 ### Socials
 
- 
 <div id="badges">
   <a href="https://www.linkedin.com/in/peter-eriksson-13b8b1120/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 </div>
  
-
-
+## My skills
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js badge" />
 
 </div>
