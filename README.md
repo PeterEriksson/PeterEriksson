@@ -4,7 +4,7 @@
 </h1>
  
  
-### I'm a frontend developer who specializes in React.js.
+<h3> I'm a frontend developer who specializes in React.js.</h3>
  
 
 <!--
