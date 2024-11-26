@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-### Check out my -> [website](https://petere-portfolio-2.vercel.app/) 
+### Check out my [website](https://petere-portfolio-2.vercel.app/) 
 
 ## Socials - lets connect!
 
